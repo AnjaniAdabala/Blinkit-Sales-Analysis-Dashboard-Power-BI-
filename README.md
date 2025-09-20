@@ -1,4 +1,4 @@
-🛒 Power BI Project – Blinkit Sales & Outlet Analysis
+🛒 BlinkIt Sales Analysis Dashboard (Power BI)
 📌 Project Overview
 
 This Power BI project analyzes sales performance, outlet establishment trends, product categories, and customer ratings for Blinkit – India’s Last Minute App. The interactive dashboard helps stakeholders track sales distribution, outlet types, item categories, and customer preferences.
